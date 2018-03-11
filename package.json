@@ -1,0 +1,15 @@
+{
+  "name": "done-deal-finder",
+  "version": "1.0.0",
+  "description": "Node package to search done deal efficiently by only showing when new items fitting the search criteria are added.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/ethanjfobrien/done-deal-finder",
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
